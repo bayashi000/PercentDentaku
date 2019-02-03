@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Main.cs" />
+    <Compile Include="Assets\Mains.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/bayashi/Desktop/PercentDentaku/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
